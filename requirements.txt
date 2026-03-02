@@ -1,6 +1,5 @@
 python-telegram-bot==20.7
-requests==2.31.0
-urllib3==1.26.18
-beautifulsoup4
-certifi
-six
+requests==2.32.5
+beautifulsoup4==2.8.3
+httpx==0.25.2
+cryptography==46.0.5
